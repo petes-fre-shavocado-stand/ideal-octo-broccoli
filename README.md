@@ -8,3 +8,5 @@ it's the sound of the police
 zap
 bang
 pop
+
+... AND HIS NAME'S JOHN CENA
